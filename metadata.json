@@ -1,0 +1,6 @@
+{
+  "name": "Online School Voting Platform",
+  "description": "A secure, school election voting portal with a candidate directory, receipt validation, duplicate prevention, and real-time administrator approval workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
